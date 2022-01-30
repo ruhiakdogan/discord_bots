@@ -120,4 +120,4 @@ async def _command(ctx):
     times_used = times_used + 1
 
 
-client.run("OTM3MDQ0Mjk4NjYxMjY1NDU4.YfWAgg.MmiZIilNrilQNhXDhV8nFgts9Zg")
+client.run("TOKEN")
